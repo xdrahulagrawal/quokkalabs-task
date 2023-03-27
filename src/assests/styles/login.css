@@ -1,0 +1,30 @@
+.login-heading {
+    text-align: center;
+    margin: 40px 0;
+}
+
+.login-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.error-msg {
+    color: red;
+    margin-right: 4%;
+}
+
+.login-btn {
+    width: 96px;
+    height: 38px;
+    margin-top: 40px;
+    color: blue;
+    background-color: white;
+    border-radius: 4px;
+    border: 1px solid blue;
+    margin-right: 24%;
+    position: fixed;
+    top: 38%;
+    cursor: pointer;
+}
